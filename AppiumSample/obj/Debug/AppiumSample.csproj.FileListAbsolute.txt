@@ -1,0 +1,9 @@
+C:\Logic\AutomaticMobileFlux\AppiumSample\bin\Debug\AppiumSample.exe.config
+C:\Logic\AutomaticMobileFlux\AppiumSample\obj\Debug\AppiumSample.csprojResolveAssemblyReference.cache
+C:\Logic\AutomaticMobileFlux\AppiumSample\bin\Debug\AppiumSample.exe
+C:\Logic\AutomaticMobileFlux\AppiumSample\bin\Debug\AppiumSample.pdb
+C:\Logic\AutomaticMobileFlux\AppiumSample\bin\Debug\appium-dotnet-driver.dll
+C:\Logic\AutomaticMobileFlux\AppiumSample\bin\Debug\WebDriver.dll
+C:\Logic\AutomaticMobileFlux\AppiumSample\bin\Debug\WebDriver.Support.dll
+C:\Logic\AutomaticMobileFlux\AppiumSample\obj\Debug\AppiumSample.exe
+C:\Logic\AutomaticMobileFlux\AppiumSample\obj\Debug\AppiumSample.pdb
